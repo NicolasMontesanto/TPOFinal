@@ -1,0 +1,2 @@
+Supuestos:
+Para ingresar a la aplicación a través del login, un usuario ya debe estar creado en la Base de Datos.
